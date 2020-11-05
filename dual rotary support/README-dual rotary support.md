@@ -41,7 +41,3 @@ I used PLA from Amazon seller Geeetech. Try to keep the friction faces on your p
 Some sanding might be needed on the button hole at chassis2.stl.
 
 If you dont want to use the buttons, ignore the one on the mount and fill the hole for the small dedicated one. Dont remove the chassis2 spacers, they provide junction stability. Washers or tiny spacers needed to increase chassis separation by ~0.5mm, as it improves touch feeling.
-
-#How I Designed This
-
-Parameter design on Catia V5R20
