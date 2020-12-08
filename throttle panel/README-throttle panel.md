@@ -57,6 +57,7 @@ I'm not convinced by how the B737 throttles look next to the other ones, so I ma
 	- base_cover_big x2
 	- base_cover_small x3
 	- base_cover_corner x2
+* Front covers: base model is base_bracket2. I'm also uploading some premade holes for my final design, which has battery/alternator/magneto and lights controls, shich are base_bracket2_A and base_bracket2_B.
 
 #Wiring, components & electronics
 It needs to be detected as an HID device, so you need to use MMJoy2 (some great English documentation [here](https://github.com/MMjoy/mmjoy_en)) or the [Arduino Joystick library](https://github.com/MHeironimus/ArduinoJoystickLibrary).
@@ -84,5 +85,7 @@ Done with a Direct Drive printer and 1.75mm PLA. Used nozzle is 0.4mm wide andla
 
 #Building tips
 Place some cloth or sponge between the lever axis and *support_singleaxis* for increased grip. Preferred for all levers, mandatory for the B737 style throttles as they are way heavier.
+
+Chassis covers might need some trimming, as tolerances are quite tight.
 
 Screws are M2 for microswitches and M3 for all remaining parts unless specified (various lengths).
